@@ -4,8 +4,8 @@ def levitation_quiz(answer)
 	while answer != 'Wingardium Leviosa'
 	  puts "What is the spell that enacts levitation?"
 	 break if answer == 'Wingardium Leviosa'
-    puts "You passed the quiz!"
   end
+  puts "You passed the quiz!"
 end
 
 
