@@ -1,5 +1,5 @@
 
-def levitation_quiz(answer)
+def levitation_quiz
 	gets answer
 	while answer != 'Wingardium Leviosa'
 	  puts "What is the spell that enacts levitation?"
